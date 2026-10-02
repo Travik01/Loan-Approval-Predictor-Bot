@@ -19,7 +19,7 @@ import emoji
 a = [1]
 u = 0
 logging.basicConfig(level=logging.INFO)
-bot = Bot(token='6989871905:AAFP7g-Of9RK-e7tuYIiA_L9M3nPiHZoi3g', default=DefaultBotProperties(parse_mode=ParseMode.HTML))
+bot = Bot(token='', default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 
 dp = Dispatcher()
 
